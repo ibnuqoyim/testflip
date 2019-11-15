@@ -1,0 +1,27 @@
+Untuk menjalankan program berikut tahapannya
+
+1. Persiapan
+	1.1 Install XAMPP
+	1.2 Pindahkan folder ke XAMPP/htdocs/
+	1.3 Buka CMD/GIT Bash arahkan ke folder program (htdocs/testflip)
+	1.4 Start XAMPP (Apache dan mySQL)
+
+2. Install Program
+	2.1 Buka file config.php di folder /testflip/config/
+	2.2 Atur Pengaturan program pada file tersebut
+	2.2 Buka CMD di folder testflip
+	2.4 Jalankan "php migration.php" untuk membuat tabel yang dibutuhkan
+
+3. Menjalankan Program
+	Jalankan pada CMD "php disburse.php" untuk memulai program
+
+
+
+	Best Regards,
+
+
+
+	M. Ibnu Qoyim
+
+
+reference : berbagai sumber di internet
